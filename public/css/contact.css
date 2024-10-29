@@ -1,0 +1,9 @@
+body {
+  display: flex;
+  justify-content: center;
+  background: darkgreen;
+}
+#main-container > h1 {
+  color: white;
+  font-size: 100px;
+}
